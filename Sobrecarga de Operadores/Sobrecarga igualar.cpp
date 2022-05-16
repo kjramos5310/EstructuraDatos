@@ -1,6 +1,6 @@
 /*******************************
 *UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE													 *
-*Programa para implementar: TDA																 *
+*Programa para implementar: Sobrecargado de operador ==										 *
 *Autor(es): Victor Camacho, Kevin Ramos														 *
 *Fecha de creacion: 15/05/2022																 *
 *Fecha de modificacion: 16/05/2022															 *
