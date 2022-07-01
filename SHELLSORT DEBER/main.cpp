@@ -4,7 +4,7 @@
 *       Fecha de creación: 21/06/2022
 *       Fecha de modificación: 29/06/2022
 *       Grupo: 4,16
-*       Github: https://github.com/cfidrobo/Estructura_de_Datos_TallerGrupal
+*       Github: https://github.com/kjramos5310/EstructuraDatos
 */
 
 
