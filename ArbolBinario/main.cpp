@@ -2,7 +2,7 @@
 *       Ordenamiento Mezcla Natural
 *       Autor: NRC 4683
 *       Fecha de creación: 01/07/2022
-*       Fecha de modificación: 
+*       Fecha de modificación: ../07/2022
 *       Grupo: 4
 *       Github: https://github.com/kjramos5310/EstructuraDatos
 */
