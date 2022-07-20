@@ -1,5 +1,7 @@
 #include "SplayTree.h"
-
+#include <conio.h>
+#include <windows.h>
+#include <stdio.h>
 
 
 
@@ -16,7 +18,10 @@ void SplayTree::drawNode(Node* root,
 					int x, int y,
 					int noderatio)
 {
-	
+	outtextxy(10, 10, "Grafico por Grupo 16");
+
+
+
 	setcolor(15);
 		circle(x, y, 25);
 		setfillstyle(SOLID_FILL, 15);
@@ -45,6 +50,20 @@ void SplayTree::drawTree(Node* root, int x, int y){
 	drawNode(root, x, y, 8);
 }
 
+
+void SplayTree::Guardar(Node *p, ofstream &salida, int cont)
+{
+    if(p){
+       Guardar(p->getDerecha(),salida,cont+1);
+       for(int i=0; i<cont;i++){
+       	salida<<"    ";
+	   }
+       salida<<p->getValor()<<endl;
+       Guardar(p->getIzquierda(),salida,cont+1);
+    }
+    
+    cout<<endl;
+}
 
    
 void SplayTree::setRoot(Node* root) {
