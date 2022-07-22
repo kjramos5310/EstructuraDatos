@@ -39,8 +39,8 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\HP\Documents\ESPE\SEGUNDO SEMESTRE\SEGUNDA\Programacion\Estructura de Datos\PROYECTOU2\ele\Ahorita si sale\EstructuraDatos\Splay Tree\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\HP\Documents\ESPE\SEGUNDO SEMESTRE\SEGUNDA\Programacion\Estructura de Datos\PROYECTOU2\ele\Ahorita si sale\EstructuraDatos\Splay Tree\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\HP\Documents\ESPE\SEGUNDO SEMESTRE\SEGUNDA\Programacion\Estructura de Datos\PROYECTOU2\ele\Ahorita si sale\EstructuraDatos\Splay Tree_v1.1\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\HP\Documents\ESPE\SEGUNDO SEMESTRE\SEGUNDA\Programacion\Estructura de Datos\PROYECTOU2\ele\Ahorita si sale\EstructuraDatos\Splay Tree_v1.1\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
