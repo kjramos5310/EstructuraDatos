@@ -2,7 +2,7 @@
 /*****************************************************************************************************
 *UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE													 		 *
 *Programa para implementar: problema de n reinas													 *
-*Autor(es): Victor Camacho, Kevin Ramos														 		 *
+*Autor(es): Victor Camacho, Kevin Ramos, Esteven Nasimba											 *
 *Fecha de creacion: 04/08/2022																 		 *
 *Fecha de modificacion: 04/08/2022															 		 *
 *Grupo #16																					 		 *
