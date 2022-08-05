@@ -1,3 +1,15 @@
+/*****************************************************************************************************
+*UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE													 		 *
+*Programa para implementar: problema de n reinas																 		 *
+*Autor(es): Victor Camacho, Kevin Ramos														 		 *
+*Fecha de creacion: 04/08/2022																 		 *
+*Fecha de modificacion: 04/08/2022															 		 *
+*Grupo #16																					 		 *
+*Github del grupo: https://github.com/kjramos5310/EstructuraDatos/tree/master/Deberes%20TercerParcial*
+*Version: 0.1																				 		 *
+*ESTRUCTURA DE DATOS 4683																	 		 *
+*																							 		 *
+*****************************************************************************************************/
 #include <iostream>
 #include <fstream>
 using namespace std;
